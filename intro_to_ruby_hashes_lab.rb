@@ -1,8 +1,9 @@
 def base_hash
- 
+{key: "railroads"} 
 end
 
 def monopoly_with_second_tier
+{key: "railroads"
 
 end
 
