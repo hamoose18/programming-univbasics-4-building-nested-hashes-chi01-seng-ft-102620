@@ -1,5 +1,5 @@
 def base_hash
-{key: "railroads"} 
+monopoly = {key: "railroads"} 
 
 end
 
