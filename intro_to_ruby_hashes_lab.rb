@@ -1,5 +1,6 @@
 def base_hash
-monopoly = {key: "railroads"}
+monopoly = {key:
+"railroads" {
 end
 
 def monopoly_with_second_tier
